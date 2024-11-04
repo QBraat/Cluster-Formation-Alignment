@@ -1,0 +1,6 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/ClusterCountingAlgorithm.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/ClusterCountingAlgorithm.py</PythonScript>
+   <Resource Type="Python">Simulation/ClusterCountingAlgorithmSteppables.py</Resource>
+   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.json</ParameterScan>
+</Simulation>

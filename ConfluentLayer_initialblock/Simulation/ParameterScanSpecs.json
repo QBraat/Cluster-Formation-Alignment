@@ -1,0 +1,20 @@
+{
+    "version":"4.0.0",
+    "parameter_list":{
+         "XDIM":{            
+            "values":[400]
+        },
+        "KAPPA":{            
+            "values":[50]
+        },
+        "TAU":{            
+            "values":[2500]
+        },
+        "GMM":{            
+            "values":[0.0]
+        },
+        "FRACTIONACTIVE":{
+            "values":[0.25]
+        }
+    }
+}
