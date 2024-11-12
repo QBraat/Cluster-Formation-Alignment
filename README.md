@@ -32,6 +32,7 @@ For each combination of parameters (tau, gamma), we either got the full dynamic 
 | ------------- |------|-----|-----|------|------|------|------|-------|------|-------|
 | 500 mcs       | Full | Full | Full | Full | Full | Full | Full | Full | Full | Full |
 | 2500 mcs      | Full | Full | Full | Full | Full | Full | Full | Full | Full | Full |
+| 4000 mcs      | Single | Single | Single | Single | Single | Single | Single | Single | Single | Single |
 
 #### Other simulations
 
@@ -47,4 +48,5 @@ Apart from the main results, we also ran simulations with different parameter se
 
 ## Sources
 [1] Swat, M. H., Thomas, G. L., Belmonte, J. M., Shirinifard, A., Hmeljak, D., & Glazier, J. A. (2012). Multi-scale modeling of tissues using CompuCell3D. Methods in cell biology, 110, 325–366. https://doi.org/10.1016/B978-0-12-388403-9.00013-8
+
 [2] Braat, Q., Storm, C., & Janssen, L. (2024). Data for paper 'Formation of motile cell clusters in heterogeneous model tumors: The role of cell-cell alignment' (PRE, 2024) [Data set]. In Physical Review E. Zenodo. https://doi.org/10.5281/zenodo.13949358
